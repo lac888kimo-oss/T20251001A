@@ -1,0 +1,5 @@
+print('input AA=', AA)
+print('input BB=', BB)
+print('input CC=', CC)
+print('input DD=', DD)
+print('Show =', AA)
